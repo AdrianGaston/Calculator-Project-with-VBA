@@ -1,3 +1,8 @@
-# VBA Calculator Project
+# VBA Calculator Project 📝
 
-## About this
+This project is a calculator created using VBA (Visual Basic for Applications).
+
+## 🖥Technologies used:
+
+- VBA
+
