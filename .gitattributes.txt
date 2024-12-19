@@ -2,3 +2,4 @@
 *.cls linguist-language=VBA
 *.frm linguist-language=VBA
 *.frx linguist-language=VBA
+*.ext linguagens=VBA
